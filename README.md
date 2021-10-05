@@ -22,4 +22,4 @@ Acredito no potencial da tecnologia, do design e da educação para conectar pes
 
 <br>
 
-![pac](https://user-images.githubusercontent.com/75868001/135933525-2710100f-190d-4328-a37d-76a8a818137b.gif)
+![Gif pacman](https://user-images.githubusercontent.com/75868001/135933525-2710100f-190d-4328-a37d-76a8a818137b.gif)
