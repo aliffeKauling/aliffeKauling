@@ -1,9 +1,10 @@
-<h4>👋 Olá, sou @aliffeKauling</h4>
-Estudante da área de tecnologia, apaixonado por viajar, artes e entusiasta da temática interação Humano-Computador. 
+# 👋 Olá, sou @aliffeKauling
+
+Estudante da área de tecnologia, apaixonado por viajar, artes e entusiasta da temática interação Humano-Computador.
 
 Acredito no potencial da tecnologia, do design e da educação para conectar pessoas, gerar acessibilidade e diminuir as desigualdades.
 
-<h4>Atualmente estudando</h4>
+# Atualmente estudando
 
 - Vue.js
 
@@ -11,14 +12,13 @@ Acredito no potencial da tecnologia, do design e da educação para conectar pes
 
 - TypeScript
 
-<h4>Atualmente interessado em</h4>
+# Atualmente interessado em
 
 - Acessibilidade
 
 - Informática na educação
 
-- Design System
-
+- Design Ssystem
 
 <br>
 
