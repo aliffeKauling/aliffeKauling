@@ -12,6 +12,10 @@ Acredito no potencial da tecnologia, do design e da educação para conectar pes
 
 - TypeScript
 
+-Asp.Net
+
+-C#
+
 # Atualmente interessado em
 
 - Acessibilidade
