@@ -12,9 +12,9 @@ Acredito no potencial da tecnologia, do design e da educação para conectar pes
 
 - TypeScript
 
--Asp.Net
+- Asp.Net
 
--C#
+- C#
 
 # Atualmente interessado em
 
