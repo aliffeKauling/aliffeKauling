@@ -22,7 +22,7 @@ Acredito no potencial da tecnologia, do design e da educação para conectar pes
 
 - Informática na educação
 
-- Design Ssystem
+- Design System
 
 <br>
 
