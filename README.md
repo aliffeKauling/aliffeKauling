@@ -1,6 +1,6 @@
 # 👋 Olá, sou @aliffeKauling
 
-Estudante da área de tecnologia, apaixonado por viajar, artes e entusiasta da temática interação Humano-Computador.
+Formado na área de tecnologia, apaixonado por viajar, artes e entusiasta da temática interação Humano-Computador.
 
 Acredito no potencial da tecnologia, do design e da educação para conectar pessoas, gerar acessibilidade e diminuir as desigualdades.
 
