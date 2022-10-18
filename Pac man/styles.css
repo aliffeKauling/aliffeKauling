@@ -1,4 +1,4 @@
-body{
+body {
     background-color: #000;
 }
 
@@ -23,7 +23,7 @@ body{
     top: 150px;
     left: 150px;
     fill: none;
-    stroke: #F4D146;
+    stroke: #f4d146;
     stroke-width: 50px;
     stroke-linecap: butt;
     stroke-dasharray: 157;
@@ -37,7 +37,7 @@ body{
     height: 12px;
     top: 167px;
     left: 204px;
-    fill: #2C2E2E;
+    fill: #2c2e2e;
     -webkit-animation: olho 0.7s ease-in-out infinite;
     animation: olho 0.7s ease-in-out infinite;
 }
@@ -48,7 +48,7 @@ body{
     width: 240px;
     top: 193px;
     left: 180px;
-    stroke: #F4D146;
+    stroke: #f4d146;
     stroke-width: 14px;
     stroke-dasharray: 0px 50px;
     stroke-linecap: round;
